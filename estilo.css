@@ -2,11 +2,11 @@ body{
   line-height: 1.5;
   font-size: 100%;
   /*font-family: 'PT Serif', serif;*/
-  font-family:cursive, serif;
+  font-family: helvetica, serif;
   font-weight:400;
   color:#f00;
-  background: #ff0
-  background-image: url('https://d1bdmzehmfm4xb.cloudfront.net/original/3X/3/8/3819827bb11e818b0c8ca7a04f36e2f11fb102be.gif')
+  background: #ff6;
+  background-image: url('https://d1bdmzehmfm4xb.cloudfront.net/original/3X/3/8/3819827bb11e818b0c8ca7a04f36e2f11fb102be.gif');
 }
 
 a{color:#000; text-decoration: none; border-bottom:1px dotted #ccc;}
